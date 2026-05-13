@@ -126,8 +126,8 @@ philosophy:  Prototype like a researcher. Ship like an engineer.
       <p><code>C++</code> · <code>React</code> · <code>FastAPI</code> · <code>WebSockets</code></p>
     </td>
     <td width="50%" valign="top">
-      <h4>👁️ <a href="https://github.com/ManeeshJupalle/Street-Level-Vision-Analytics-Node-for-Curio">Street-Level Vision Analytics for Curio</a></h4>
-      <p>A vision-analytics extension node for the Curio platform — turning street-level video into structured signals downstream tools can act on. Contributed alongside the core Curio team.</p>
+      <h4>👁️ <a href="https://github.com/Sravya1802/Street-Level-Vision-Analytics-Node-for-Curio">Street-Level Vision Analytics for Curio</a></h4>
+      <p>A vision-analytics extension node for the Curio platform — turning street-level video (Google Street View) into structured signals downstream tools can act on. Includes a map-view frontend, evaluation benchmarks, and Chicago neighborhood enrichment. Contributed alongside the core Curio team.</p>
       <p><code>TypeScript</code> · <code>Computer Vision</code> · <code>Curio</code></p>
     </td>
   </tr>
