@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Software Engineer · ML Systems Engineer</b><br/>
-  <sub>Building things that matter — from real-time ML at Mercedes-Benz to conversational AI for Alzheimer's care at UIC.</sub>
+  <sub>Building things that matter : from real-time ML at Mercedes-Benz to conversational AI for Alzheimer's care at UIC.</sub>
 </p>
 
 <p align="center">
