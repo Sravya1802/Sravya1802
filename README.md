@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Sravya+%F0%9F%91%8B;AI+%2B+Healthcare+%2B+Full-Stack;Turning+research+papers+into+real+products." alt="typing headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Sravya+%F0%9F%91%8B;A+Software+Engineer;An+ML+Systems+Engineer;Building+things+that+matter." alt="typing headline" />
 </h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sravya-rl/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:laksmisravyar@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:lakshmisravyar@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://sravyarachakonda.com/"><img src="https://img.shields.io/badge/Portfolio-Visit-111?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
 </p>
 
@@ -14,22 +14,25 @@
 
 ```yaml
 name:        Sravya Rachakonda
-role:        AI Researcher · Software Engineer
+role:        Software Engineer · ML Systems Engineer
 based_in:    Chicago, IL
-studying:    MS Computer Science @ UIC  (GPA 3.80, May 2026)
-focus:       clinical AI · research automation · document intelligence
-fun_fact:    I prototype like a researcher and ship like an engineer.
+studying:    M.S. Computer Science @ UIC  (2025 – 2027)
+working_on:  conversational AI for Alzheimer's care · clinical decision support
+previously:  Software Engineer @ Mercedes-Benz R&D India (2023 – 2025)
+philosophy:  Prototype like a researcher. Ship like an engineer.
 ```
+
+> *I'm a software engineer who loves building things that matter — from real-time ML systems at Mercedes-Benz to conversational AI for Alzheimer's care at UIC. I thrive at the intersection of full-stack development and applied ML.*
 
 ---
 
-### 🔭 Currently
+### 🧭 Experience
 
-> Building tools that sit between **clinical data**, **scientific literature**, and **the humans who use them** — agents, RAG pipelines, and full-stack apps that go beyond demos.
-
-- 🩺 **Healthcare AI** — diagnostic and document workflows that respect clinician time
-- 📚 **Research automation** — agents that read, cite, and cross-reference papers for you
-- 🧪 **Full-stack research tools** — turning Jupyter prototypes into products people actually use
+| When | Role | Where |
+|---|---|---|
+| **Oct 2025 – Present** | Graduate Research Assistant | University of Illinois at Chicago |
+| **Aug 2023 – Aug 2025** | Software Engineer | Mercedes-Benz Research & Development India |
+| *Earlier* | Software Patent Associate Intern | K S Partners |
 
 ---
 
@@ -37,10 +40,11 @@ fun_fact:    I prototype like a researcher and ship like an engineer.
 
 | | |
 |---|---|
-| 🥇 | **1st Place** — Microsoft Hack with Chicago |
-| 🤝 | **Perplexity Campus Partner** |
-| 🎓 | **MS CS @ UIC** — GPA 3.80, graduating May 2026 |
-| 🌐 | Portfolio · [sravyarachakonda.com](https://sravyarachakonda.com/) |
+| 🥉 | **3rd Place** — Microsoft Hack |
+| 🎓 | **M.S. Computer Science** @ UIC *(2025 – 2027)* |
+| 📚 | **B.Tech.** @ Jain University — *GPA 3.92* |
+| 🚗 | Shipped real-time driver-monitoring ML at **Mercedes-Benz R&D** |
+| ❤️ | Love hackathons. Currently seeking new opportunities. |
 
 ---
 
@@ -55,27 +59,28 @@ fun_fact:    I prototype like a researcher and ship like an engineer.
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
 </p>
 
-**Backend & Data**
+**Full Stack**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-</p>
-
-**Frontend**
-<p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 </p>
 
-**Infra**
+**Data & Cloud**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+</p>
+
+**Systems & DevOps**
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
 
 ---
@@ -85,8 +90,8 @@ fun_fact:    I prototype like a researcher and ship like an engineer.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🩺 <a href="https://github.com/Sravya1802/HIPAA-Compliant-Medical-Triage-AI-System">Golden Bridge — Ambulance Pre-Arrival System</a></h4>
-      <p>Real-time clinical decision support that closes the ambulance → ER gap. Streams vitals over the Pathway framework, scores acuity with an LLM xPack, and auto-activates ED protocols before the patient rolls through the door. <i>Built for the Pathway hackathon.</i></p>
+      <h4>🩺 <a href="https://github.com/Sravya1802/HIPAA-Compliant-Medical-Triage-AI-System">Golden Bridge — Clinical Decision Support</a></h4>
+      <p>Real-time pre-arrival system that closes the ambulance → ER gap. Streams vitals over the Pathway framework, scores acuity with an LLM xPack, and auto-activates ED protocols before the patient rolls through the door. <i>Built for the Pathway hackathon.</i></p>
       <p><code>Python</code> · <code>Pathway</code> · <code>LLM</code> · <code>Healthcare</code></p>
     </td>
     <td width="50%" valign="top">
@@ -97,8 +102,8 @@ fun_fact:    I prototype like a researcher and ship like an engineer.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🧭 <a href="https://github.com/Sravya1802/Finpath">FinPath — Financial Guidance for U.S. Newcomers</a></h4>
-      <p>A visa-aware financial-literacy platform for F-1 students, H-1B workers, and refugees. Personalized dashboards walk users through credit building, tax filing, and money transfer — with a context-aware chatbot that adapts guidance to their visa status.</p>
+      <h4>🧭 <a href="https://github.com/Sravya1802/Finpath">FinPath — Financial Literacy for U.S. Newcomers</a></h4>
+      <p>A visa-aware financial-guidance platform for F-1 students, H-1B workers, and refugees. Personalized dashboards walk users through credit building, tax filing, and money transfer — with a context-aware chatbot that adapts to their visa status.</p>
       <p><code>TypeScript</code> · <code>React</code> · <code>UX Prototyping</code> · <code>Fintech</code></p>
     </td>
     <td width="50%" valign="top">
@@ -138,17 +143,17 @@ fun_fact:    I prototype like a researcher and ship like an engineer.
 
 ### 🤝 Open to
 
-- 🧑‍🔬 **Research collaborations** in healthcare AI, agents, or document understanding
-- 💼 **Full-time SWE / AI roles** starting Summer 2026
+- 🧑‍💻 **Full-time SWE / ML roles** — currently seeking new opportunities
+- 🧑‍🔬 **Research collaborations** in healthcare AI, agents, and applied ML
 - ☕ **Coffee chats** with anyone building at the intersection of research + product
 
 <p align="center">
-  <a href="mailto:laksmisravyar@gmail.com"><b>📩 laksmisravyar@gmail.com</b></a> &nbsp;·&nbsp;
+  <a href="mailto:lakshmisravyar@gmail.com"><b>📩 lakshmisravyar@gmail.com</b></a> &nbsp;·&nbsp;
   <a href="mailto:lrach@uic.edu"><b>🎓 lrach@uic.edu</b></a>
 </p>
 
 ---
 
 <p align="center">
-  <sub><i>"The best research is the kind someone can actually use." — me, probably, at 2 AM</i></sub>
+  <sub><i>"Prototype like a researcher. Ship like an engineer."</i></sub>
 </p>
