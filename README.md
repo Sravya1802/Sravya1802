@@ -150,7 +150,7 @@ philosophy:  Prototype like a researcher. Ship like an engineer.
 
 ### 🤝 Open to
 
-- 🧑‍💻 **Full-time SWE / ML roles** — currently seeking new opportunities
+- 🧑‍💻 **Internship/ Full-time : SWE - ML roles** — currently seeking new opportunities
 - 🧑‍🔬 **Research collaborations** in healthcare AI, agents, and applied ML
 - ☕ **Coffee chats** with anyone building at the intersection of research + product
 
