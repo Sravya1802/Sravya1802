@@ -1,6 +1,13 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Sravya+%F0%9F%91%8B;A+Software+Engineer;An+ML+Systems+Engineer;Building+things+that+matter." alt="typing headline" />
-</h1>
+<h1 align="center">Hi, I'm Sravya 👋</h1>
+
+<p align="center">
+  <b>Software Engineer · ML Systems Engineer</b><br/>
+  <sub>Building things that matter — from real-time ML at Mercedes-Benz to conversational AI for Alzheimer's care at UIC.</sub>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=620&lines=Prototype+like+a+researcher.;Ship+like+an+engineer.;Currently+seeking+new+opportunities." alt="rotating tagline" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sravya-rl/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
