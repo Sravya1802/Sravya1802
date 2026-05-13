@@ -80,6 +80,49 @@ fun_fact:    I prototype like a researcher and ship like an engineer.
 
 ---
 
+### 📌 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🩺 <a href="https://github.com/Sravya1802/HIPAA-Compliant-Medical-Triage-AI-System">Golden Bridge — Ambulance Pre-Arrival System</a></h4>
+      <p>Real-time clinical decision support that closes the ambulance → ER gap. Streams vitals over the Pathway framework, scores acuity with an LLM xPack, and auto-activates ED protocols before the patient rolls through the door. <i>Built for the Pathway hackathon.</i></p>
+      <p><code>Python</code> · <code>Pathway</code> · <code>LLM</code> · <code>Healthcare</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚖️ <a href="https://github.com/Sravya1802/Confairnlp">ConfairNLP — Fair Conformal Hate-Speech Detection</a></h4>
+      <p>Studies whether <b>conformal prediction</b> coverage is distributed evenly across demographic groups in hate-speech detection. Fine-tunes BERT/HateBERT on HateXplain and compares marginal, group-conditional, and fairness-regularized CP — plus causal coverage attribution and counterfactual stress tests.</p>
+      <p><code>PyTorch</code> · <code>HuggingFace</code> · <code>Conformal Prediction</code> · <code>Fairness</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧭 <a href="https://github.com/Sravya1802/Finpath">FinPath — Financial Guidance for U.S. Newcomers</a></h4>
+      <p>A visa-aware financial-literacy platform for F-1 students, H-1B workers, and refugees. Personalized dashboards walk users through credit building, tax filing, and money transfer — with a context-aware chatbot that adapts guidance to their visa status.</p>
+      <p><code>TypeScript</code> · <code>React</code> · <code>UX Prototyping</code> · <code>Fintech</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🚀 <a href="https://github.com/Sravya1802/outreach-os">OutreachOS — AI Internship Hunting, Automated</a></h4>
+      <p>An end-to-end job-search OS: scrapes LinkedIn / Wellfound / YC, grades companies A–F with Claude/GPT-4o/Gemini, runs a kanban pipeline, and uses Playwright to auto-fill Greenhouse / Lever / Ashby forms with a freshly tailored resume per job.</p>
+      <p><code>JavaScript</code> · <code>Playwright</code> · <code>LLM Agents</code> · <code>Automation</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📈 <a href="https://github.com/Sravya1802/order-book-simulator">Low-Latency Order Book Simulator</a></h4>
+      <p>A C++ matching engine wired to a React trading dashboard. Lock-free SPSC queue, sub-microsecond matching latency, and a Python/FastAPI WebSocket bridge that streams trades, depth, and latency telemetry at 20 Hz to the browser.</p>
+      <p><code>C++</code> · <code>React</code> · <code>FastAPI</code> · <code>WebSockets</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>👁️ <a href="https://github.com/ManeeshJupalle/Street-Level-Vision-Analytics-Node-for-Curio">Street-Level Vision Analytics for Curio</a></h4>
+      <p>A vision-analytics extension node for the Curio platform — turning street-level video into structured signals downstream tools can act on. Contributed alongside the core Curio team.</p>
+      <p><code>TypeScript</code> · <code>Computer Vision</code> · <code>Curio</code></p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 📈 GitHub Snapshot
 
 <p align="center">
